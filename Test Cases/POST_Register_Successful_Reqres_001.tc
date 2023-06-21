@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{
+    &quot;email&quot;: &quot;eve.holt@reqres.in&quot;,
+    &quot;password&quot;: &quot;pistol&quot;
+}</description>
+   <name>POST_Register_Successful_Reqres_001</name>
+   <tag>Post</tag>
+   <comment></comment>
+   <testCaseGuid>df8da1c5-6846-4f48-a7b1-5e62b1f4050d</testCaseGuid>
+</TestCaseEntity>

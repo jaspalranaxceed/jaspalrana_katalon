@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>https://reqres.in/api/users/23</description>
+   <name>GET_API_Single_User_Not</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2090c7d-1518-4140-94a2-b68b0aceaa21</testCaseGuid>
+</TestCaseEntity>

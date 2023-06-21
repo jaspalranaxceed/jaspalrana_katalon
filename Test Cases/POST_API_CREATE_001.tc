@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>https://reqres.in/api/users</description>
+   <name>POST_API_CREATE_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a6eb765-75fe-453e-b01f-c5ad3dd5e14a</testCaseGuid>
+</TestCaseEntity>

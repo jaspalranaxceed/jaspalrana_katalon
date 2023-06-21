@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>https://reqres.in/api/users/2</description>
+   <name>GET_API_List_Resource_001</name>
+   <tag>400</tag>
+   <comment></comment>
+   <testCaseGuid>c157cc5a-7c8b-4f1a-ab2c-c66f92c9484a</testCaseGuid>
+</TestCaseEntity>
